@@ -1,0 +1,11 @@
+{
+  "theme": "business",
+  "background": {
+    "type": "gradient",
+    "colors": ["#2A2D3E", "#212332"]
+  },
+  "fields": [
+    {"type": "email", "label": "工作邮箱"},
+    {"type": "password", "hint": "需包含大写字母"}
+  ]
+}
